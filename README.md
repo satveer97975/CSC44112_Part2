@@ -1,4 +1,4 @@
-# CSC44112_Part2
+# Retail Sales Forecasting - Walmart Store Sales
 This project builds and compares multiple machine learning models to forecast weekly sales for 45 Walmart stores using historical data and contextual features such as holidays, temperature, fuel price, CPI, and unemployment rate.
 The goal is to demonstrate a complete, end-to-end data science pipeline — from raw data exploration all the way to model evaluation and business interpretation.
 
